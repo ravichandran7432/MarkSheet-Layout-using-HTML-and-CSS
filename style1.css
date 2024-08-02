@@ -1,0 +1,30 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+body{
+    margin: 10px;
+    border: 2px solid black;
+    background-color:antiquewhite
+}
+.container{
+    margin: 10px;
+}
+.title{
+    text-align: center;
+}
+table,th,tr,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    background-color: blanchedalmond
+}
+.date{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+footer{
+    text-align:center;
+}
